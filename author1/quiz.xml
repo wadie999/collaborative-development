@@ -9,7 +9,7 @@
 	<penalty>1</penalty>
 	<defaultgrade>1</defaultgrade>
 	<subquestion>
-		<text>Premier item de la première paire</text>
+		<text>Le premier item de la première paire d'appariement</text>
 		<answer>
 			<text>Second item de le première paire</text>
 		</answer>
