@@ -24,7 +24,7 @@
 </question>
 <question type="multichoice">
 	<name>
-		<text>Demo question à choix multiples</text>
+		<text></text>
 	</name>
 	<questiontext format="html">
 		<text>Quel est la bonne réponse ?</text>
