@@ -1,7 +1,7 @@
 <?xml version="1.0" ?> <quiz>
 <question type="matching">
 	<name>
-		<text>Demo question d'appariement</text>
+		<text></text>
 	</name>
 	<questiontext format="html">
 		<text>Quel est la bonne réponse ?</text>
