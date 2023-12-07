@@ -5,7 +5,7 @@
 Ceci est un fichier README pour tester les conflits dans Git.
 
 ## Section de Modification
-- wadie : [Votre modification ici]
+- wadie : ma modification am3lm ;) 
 - amine : 1ere modification
 
 ## Notes Finales
