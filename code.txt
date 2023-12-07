@@ -1,0 +1,12 @@
+
+# Projet de Test pour Git
+
+## Description
+Ceci est un fichier README pour tester les conflits dans Git.
+
+## Section de Modification
+- wadie : [Votre modification ici]
+- amine : [Votre modification ici]
+
+## Notes Finales
+Ce fichier est destiné à être modifié par plusieurs utilisateurs pour générer des conflits de fusion.
